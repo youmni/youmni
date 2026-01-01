@@ -33,6 +33,11 @@
 
 ## Project Highlights
 
+### FileGuardian: Automated backup system with cryptographic integrity verification
+
+FileGuardian is a robust, modular PowerShell-based backup solution designed to automate file backups while ensuring data integrity through SHA256 cryptographic verification. The system helps prevent data loss and undetected file corruption by validating every backup operation and maintaining detailed audit trails through digitally signed reports.
+* **[View Repository](https://github.com/youmni/FileGuardian)**
+  
 ### Tutorspace: Community-Driven Learning Platform
 
 A platform connecting students and tutors for booking sessions, interactive activities, and educational discussions, aiming to improve learning outcomes through effective collaboration.
